@@ -1,0 +1,3 @@
+The use of AI to learn python was a new experience on how to complete this work. Though its code was more complex,there's a clear distinction of what should be done and what should not be done.
+I got some problem trying to commit and push the homework.
+But overall i learned how to code and be more accurate with the what to wwrite.
